@@ -4,7 +4,7 @@
 #
 Name     : joblib
 Version  : 0.14.1
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/77/c4/26ba5eb6f494d2c307b74ee9bc591bc8153ec4c4fb2a54e780973526cfb5/joblib-0.14.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/77/c4/26ba5eb6f494d2c307b74ee9bc591bc8153ec4c4fb2a54e780973526cfb5/joblib-0.14.1.tar.gz
 Summary  : Lightweight pipelining: using Python functions as pipeline jobs.
@@ -42,6 +42,7 @@ python components for the joblib package.
 Summary: python3 components for the joblib package.
 Group: Default
 Requires: python3-core
+Provides: pypi(joblib)
 
 %description python3
 python3 components for the joblib package.
@@ -56,8 +57,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1575995625
-# -Werror is for werrorists
+export SOURCE_DATE_EPOCH=1583703362
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
 export FCFLAGS="$CFLAGS -fno-lto "
