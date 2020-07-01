@@ -1,5 +1,5 @@
 PKG_NAME := joblib
-URL = https://files.pythonhosted.org/packages/57/d2/45a038246a0596fb73af64c07e95578764d0fd115ce67f6b41eb457eed39/joblib-0.15.1.tar.gz
+URL = https://files.pythonhosted.org/packages/1f/17/6162a5fd4b2b76f2beb5933547ea5c3a27304585483edc93dedd740cf9b9/joblib-0.16.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
