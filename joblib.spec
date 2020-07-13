@@ -4,7 +4,7 @@
 #
 Name     : joblib
 Version  : 0.16.0
-Release  : 10
+Release  : 11
 URL      : https://files.pythonhosted.org/packages/1f/17/6162a5fd4b2b76f2beb5933547ea5c3a27304585483edc93dedd740cf9b9/joblib-0.16.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/1f/17/6162a5fd4b2b76f2beb5933547ea5c3a27304585483edc93dedd740cf9b9/joblib-0.16.0.tar.gz
 Summary  : Lightweight pipelining: using Python functions as pipeline jobs.
